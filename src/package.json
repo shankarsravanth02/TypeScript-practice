@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1364.0",
+    "create-react-app": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0"
+  }
+}
